@@ -1,0 +1,28 @@
+{
+  "name": "TheBoard",
+  "version": "0.1.0",
+  "description": "TheBoard",
+  "main": "server.js",
+  "author": {
+    "name": "Leo Cruz",
+    "email": "llimacruz@gmail.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.4.2",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "jade": "^1.11.0",
+    "mongodb": "^2.2.11",
+    "underscore": "^1.8.3",
+    "urlencoded-request-parser": "^1.0.1",
+    "vash": "^0.12.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-nodemon": "^0.4.2"
+  }
+}
